@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+app/src/main/java/com/utilities/Links.kt
